@@ -24,8 +24,8 @@ This project began as part of the Reinforcement Learning course at the Universit
 +100 if shot hit
 
 ###  **Episode Termination**
-(1)-if 200 frames have passed
-(2)-if enemy is hit
+(1) 200 frame timeout
+(2) enemy hit
 
 <br>
 
