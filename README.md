@@ -9,7 +9,7 @@ This project began as part of the Reinforcement Learning course at the Universit
 
 
 ## Scenario
-<img src="https://github.com/zyounguri/RL/assets/138076274/31d6cada-7cab-41c8-b268-73437a2c9e50" align="left" width="400"/> 
+<img src="https://github.com/zyounguri/RL/assets/138076274/31d6cada-7cab-41c8-b268-73437a2c9e50" align="left" width="450"/> 
 
 
 ###  **Task**
@@ -25,7 +25,7 @@ This project began as part of the Reinforcement Learning course at the Universit
 
 ###  **Episode Termination**
 (1)-if 200 frames have passed
-<br>(2)-if enemy is hit
+(2)-if enemy is hit
 
 <br><br><br>
 ## Code
