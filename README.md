@@ -65,4 +65,5 @@ Warning: You might have to tune some file paths in the code.
 
 ## Contributors
 **Jeonghyun Kim** 📧 kr.jeonghyun.kim@gmail.com
+<br>
 **Jiyoung Seo** 📧 tjwldud0531@naver.com
