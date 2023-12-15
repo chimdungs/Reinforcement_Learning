@@ -29,7 +29,7 @@ This project began as part of the Reinforcement Learning course at the Universit
 
 <br>
 
-## **Code**
+## **Files**
 Warning: You might have to tune some file paths in the code.
 <br><br>
 **basic.py**
